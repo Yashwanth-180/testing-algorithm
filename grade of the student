@@ -4,9 +4,9 @@ Step 3: Read input as percent
 Step 4: set percent:=(m1+m2+m3+m4+m5+m6)/6
 step 5: IF percent>=75
              print("student got A grade")
-        ELSE IF percent>=65
+        ELIF percent>=65
              print("student got B grade")
-        ELSE IF percent>=35
+        ELIF percent>=35
              print("studennt got C grade")
         ELSE
              print("Fail")
